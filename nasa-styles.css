@@ -1,0 +1,68 @@
+body {
+    background: linear-gradient(45deg, #CCFFFF, #FFCCCC);
+}
+h1 {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+p a:visited {
+    color: #7108ad
+}
+#date{
+    margin-bottom: 0;
+}
+#jupiter-abyss {
+    display: block;
+    width: 86.1%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.subheading {
+    text-align: center;
+    font-size: medium;
+}
+.articletitle {
+    margin-top: 1.4em;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: medium;
+}
+#imagecredit {
+    margin-top: 0;
+}
+.important-text {
+    font-weight: bold;
+}
+.credits {
+    font-style: italic;
+}
+footer {
+    text-align: center;
+}
+#navlist {
+    border-top: solid 1px #696969;
+    border-bottom: solid 1px #696969;
+    margin-bottom: 1em;
+}
+ul {
+    margin: 0.5em;
+}
+li {
+    display: inline-block;
+    border-right: solid 2px #696969;
+    line-height: 0.7em;
+    padding-right: 6px;
+}
+li:last-child {
+    border-right: none;
+}
+div.end-credits p {
+    font-size: medium;
+    margin: 0;
+}
+
+
+
